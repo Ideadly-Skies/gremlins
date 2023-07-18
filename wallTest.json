@@ -1,0 +1,10 @@
+{
+    "levels": [
+      {
+        "layout": "wallTestLvl.txt",
+        "wizard_cooldown": 0.3333,
+        "enemy_cooldown": 1.0
+      }
+    ],
+    "lives": 3
+}
